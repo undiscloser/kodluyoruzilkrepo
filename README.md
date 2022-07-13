@@ -10,7 +10,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
+
 cd kodluyoruzilkrepo
+
 code .
 
 
@@ -19,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 # License
-MIT
+C:\Users\Oguzhan\Desktop\prject1/Ekran görüntüsü 2022-07-13 141955.png
