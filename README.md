@@ -30,3 +30,7 @@ Uygun pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Ekran görüntüsü 2022-07-13 141955](https://user-images.githubusercontent.com/98262554/178739459-3d7acefb-7888-4663-9bbb-a34ac095c538.png)
+
