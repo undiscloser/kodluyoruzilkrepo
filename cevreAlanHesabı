@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+       double a,b,c,u,cevre,alan;
+       
+       Scanner inp = new Scanner(System.in);
+       System.out.println("a sayısını giriniz. :");
+       a = inp.nextInt();
+       
+       System.out.println("b sayısını giriniz. :");
+       b = inp.nextInt();
+       
+       System.out.println("c sayısını giriniz. :");
+       c = inp.nextInt();
+       
+       u =  (a+b+c) / 2;
+       cevre= 2*u;
+       System.out.println("Üçgenin çevresi: "+cevre);
+       
+       alan = u*(u-a)*(u-b)*(u-c);
+       System.out.println("Üçgenin Aanı : "+alan);
+
+
+    }
+}
